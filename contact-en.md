@@ -1,14 +1,13 @@
 ---
-layout: page
 title: Contact
+permalink: "/contact.html"
+layout: page
 tagline: Make a new friend
-excerpt: >
-  
-permalink: /contact.html
+excerpt: ''
 header:
-  image: /assets/patterns/wov.png
+  image: "/assets/patterns/wov.png"
 ref: contact
-lang: en  
+lang: en
 order: 3
 ---
 

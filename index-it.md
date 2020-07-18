@@ -1,28 +1,24 @@
 ---
-#
-# Here you can change the text shown in the Home page before the Latest Posts section.
-#
-# Edit jekyll-theme-simple-blog's home layout in _layouts instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
+permalink: "/indice.html"
 layout: home
-permalink: /indice.html
 header:
-  image: /assets/img/home-header.jpg
-tagline: > # this means to ignore newlines until "repository:"
-  Scrivi una fantastica descrizione del tuo nuovo sito qui. Puoi modificare
-  questa descritione nel file index-it.md. Apparira' anche nel head meta (per
-  indicizzazione SEO) e nella descrizione del sito nel feed.xml.
-excerpt: >
-  Scrivi una fantastica descrizione del tuo nuovo sito qui. Puoi modificare
-  questa descritione nel file index-it.md. Apparira' anche nel head meta (per
-  indicizzazione SEO) e nella descrizione del sito nel feed.xml.
+  image: "/assets/img/home-header.jpg"
+tagline: 'Scrivi una fantastica descrizione del tuo nuovo sito qui. Puoi modificare
+  questa descritione nel file index-it.md. Apparira'' anche nel head meta (per indicizzazione
+  SEO) e nella descrizione del sito nel feed.xml.
+
+'
+excerpt: 'Scrivi una fantastica descrizione del tuo nuovo sito qui. Puoi modificare
+  questa descritione nel file index-it.md. Apparira'' anche nel head meta (per indicizzazione
+  SEO) e nella descrizione del sito nel feed.xml.
+
+'
 repository:
   is_project_page: true
   show_downloads: true
   repository_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog
   zip_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.zip
-  tar_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.tar.gz  
+  tar_url: https://gitlab.com/lorepirri/jekyll-theme-simple-blog/repository/master/archive.tar.gz
 ref: home
 lang: it
 ---

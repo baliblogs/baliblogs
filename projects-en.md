@@ -1,12 +1,14 @@
 ---
-layout: category
 title: Projects
+permalink: "/projects.html"
+layout: category
 tagline: These are your projects
-excerpt: >
-  These are your projects, listed chronologically. If you are not interested in showing off your projects, delete this page.
-permalink: /projects.html
+excerpt: 'These are your projects, listed chronologically. If you are not interested
+  in showing off your projects, delete this page.
+
+'
 header:
-  image: /assets/patterns/new_year_background.png
+  image: "/assets/patterns/new_year_background.png"
 ref: projects
 lang: en
 order: 1

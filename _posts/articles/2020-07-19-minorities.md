@@ -1,11 +1,15 @@
 ---
+title: Minorities
+date: 2020-07-19 00:00:00 Z
+tags:
+- minorities
+- '1984'
 layout: post
-tagline: "Today I'll talk about atrocities against minorities"
-image: /assets/patterns/paisley.png
+tagline: Today I'll talk about atrocities against minorities
+image: "/assets/patterns/paisley.png"
 header:
-  image: /assets/patterns/asanoha-400px.png
-tags: ["minorities","1984"]
-keywords: 1984, delhi-riots, 
+  image: "/assets/patterns/asanoha-400px.png"
+keywords: 1984, delhi-riots,
 ref: post-example-in-english
 ---
 
